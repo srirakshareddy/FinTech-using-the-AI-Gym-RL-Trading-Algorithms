@@ -3,11 +3,11 @@
 I am using the AI-Gym environment provided by OpenAI to enforce several learning and control algorithms. AI Gym is a toolkit that exposes a series of high-level function calls to common environment simulations used to benchmark RL algorithms. In this Project to I am investigating at least two trading algorithms for a given data collected about the stocks of a given company.
 
 There are five important steps in a sequence,
-● Install and import dependencies
-● Using Marketwatch GME Data
-● Building environment
-● Building proper environment and training the dataset
-● Evaluation
+1. Install and import dependencies
+2. Using Marketwatch GME Data
+3. Building environment
+4. Building proper environment and training the dataset
+5. Evaluation
 
 Overview:
 
