@@ -46,6 +46,7 @@ this helps us visualize the plot of the outcome which is given in the Output1
 screenshot.
 
 4. Building proper Environment and Training the data set
+
 First step is to wrap the dataset in the dummy vector environment. We have to
 include the window size and the bounded frame again within the dummy
 environment.
@@ -58,6 +59,7 @@ values closer to 1 is better. We can stop the model if we want when we get a val
 closer to 1.
 
 5. Evaluation
+
 We finally test out the model and check its performance by creating a new
 environment to perform the test on. Here we change the data time frame to test the
 performance to overlap with the training sets to compare its performance by
